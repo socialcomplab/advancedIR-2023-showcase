@@ -12,6 +12,14 @@ Slides of their final presentation and their code-base are openly available.
 
 ![Teaser05](files/group05-2.png)
 
+## IR Meets LLM
+> Stephan Bartl  
+> Dorian Percic  
+
+[Slides](files/group04.pdf) and Repo: [https://github.com/stephba/IR-meets-LLM](https://github.com/stephba/IR-meets-LLM)
+
+![Teaser04](files/group04-10.png)
+
 ## mSUsIE: multimodal Search Using Image Encoders
 > Benedikt Kantz  
 > Corinna Kindlhofer  
