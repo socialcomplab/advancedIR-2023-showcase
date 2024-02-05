@@ -1,7 +1,7 @@
 # Advanced IR WS23 Project Highlights
 
-This pages features well conducted IR projects of Advanced Information Retrieval of winter term 2023 (in no particular order).  
-Slides of their final presentation and their code-base are openly available.  
+This page features well-conducted IR projects from Advanced Information Retrieval of winter term 2023 (in no particular order).  
+Slides of the groups' final presentations and their code bases are openly available.  
 
 ## Out-of-the-box performance Compare a pretrained DPR model vs. fine-tuning a model
 > Luke Leimbach  
