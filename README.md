@@ -3,6 +3,15 @@
 This pages features well conducted IR projects of Advanced Information Retrieval of winter term 2023 (in no particular order).  
 Slides of their final presentation and their code-base are openly available.  
 
+## Out-of-the-box performance Compare a pretrained DPR model vs. fine-tuning a model
+> Luke Leimbach  
+> Joseph Juri  
+> Raphael Kandler  
+
+[Slides](files/group05.pdf) and Repo: [https://github.com/Azgeb/Advanced-Information-Retrival-WS23-24-Group05](https://github.com/Azgeb/Advanced-Information-Retrival-WS23-24-Group05)
+
+![Teaser05](files/group05-2.png)
+
 ## mSUsIE: multimodal Search Using Image Encoders
 > Benedikt Kantz  
 > Corinna Kindlhofer  
