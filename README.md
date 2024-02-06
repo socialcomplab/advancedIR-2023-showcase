@@ -12,6 +12,15 @@ Slides of the groups' final presentations and their code bases are openly availa
 
 ![Teaser05](files/group05-2.png)
 
+## LTM: Language Time Machine
+> Felix Holz  
+> David Wildauer  
+> Leopold Magurano  
+
+[Slides](files/group11.pdf) and Repo: [https://github.com/NeXTormer/LTM-LanguageTimeMachine](https://github.com/NeXTormer/LTM-LanguageTimeMachine)
+
+![Teaser11](files/group11-07.png)
+
 ## IR Meets LLM
 > Stephan Bartl  
 > Dorian Percic  
