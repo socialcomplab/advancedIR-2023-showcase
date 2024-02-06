@@ -20,6 +20,15 @@ Slides of the groups' final presentations and their code bases are openly availa
 
 ![Teaser04](files/group04-10.png)
 
+## Comparing Different Approaches to cross-lingual Information Retrieval
+> Katharina Aschauer  
+> Maximilian Binder  
+> Jan-Peter Svetits  
+
+[Slides](files/group02.pdf) and Repo: [https://github.com/katasc22/AIR2023](https://github.com/katasc22/AIR2023)
+
+![Teaser02](files/group02-6.png)
+
 ## mSUsIE: multimodal Search Using Image Encoders
 > Benedikt Kantz  
 > Corinna Kindlhofer  
