@@ -12,6 +12,14 @@ Slides of the groups' final presentations and their code bases are openly availa
 
 ![Teaser05](files/group05-2.png)
 
+## Balancing Political Bias in News Article Retrieval
+> Thomas Jahoda  
+> Raphael Rogi  
+
+[Slides](files/group13.pdf) and Repo: [https://gitlab.tugraz.at/jahoth/ws23-advanced-information-retrieval-project](https://gitlab.tugraz.at/jahoth/ws23-advanced-information-retrieval-project)
+
+![Teaser13](files/group13-09.png)
+
 ## LTM: Language Time Machine
 > Felix Holz  
 > David Wildauer  
